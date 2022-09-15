@@ -40,7 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    /* background-color: #2e72a1; Blue */
+    background-color: #c1d3fe;
     color: #ffffff;
 }
 
